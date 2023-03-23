@@ -1,10 +1,3 @@
-# algalog-api
-REST API com o ecossistema Spring feita no curso MSR (Mergulho Spring REST) realizado pela AlgaWorks.
-
-É uma API simples para entrega de pedidos.
-
-A coleção do Postman está no arquivo: AlgaLog.postman_collection.json
-
 # AlgaLog API
 
 Este repositório contém o código-fonte de uma API REST desenvolvida em Spring Boot, Spring MVC e Spring Data JPA. A API foi desenvolvida como parte do curso MSR (Mergulho Spring REST) realizado pela AlgaWorks e tem como objetivo fornecer um serviço de entrega de pedidos.
